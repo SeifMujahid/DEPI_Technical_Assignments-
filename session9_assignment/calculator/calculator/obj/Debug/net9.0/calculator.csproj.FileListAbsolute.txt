@@ -1,0 +1,14 @@
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\bin\Debug\net9.0\calculator.exe
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\bin\Debug\net9.0\calculator.deps.json
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\bin\Debug\net9.0\calculator.runtimeconfig.json
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\bin\Debug\net9.0\calculator.dll
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\bin\Debug\net9.0\calculator.pdb
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\calculator.AssemblyInfoInputs.cache
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\calculator.AssemblyInfo.cs
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\calculator.csproj.CoreCompileInputs.cache
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\calculator.dll
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\refint\calculator.dll
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\calculator.pdb
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\calculator.genruntimeconfig.cache
+F:\DEPI\technical\C#\session9\session9_assignment\calculator\calculator\obj\Debug\net9.0\ref\calculator.dll
