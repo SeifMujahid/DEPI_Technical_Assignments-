@@ -1,7 +1,0 @@
-F:\DEPI\technical\OOP\session11\session11_assignment\bank\bank\bin\Debug\bank.exe.config
-F:\DEPI\technical\OOP\session11\session11_assignment\bank\bank\bin\Debug\bank.exe
-F:\DEPI\technical\OOP\session11\session11_assignment\bank\bank\bin\Debug\bank.pdb
-F:\DEPI\technical\OOP\session11\session11_assignment\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
-F:\DEPI\technical\OOP\session11\session11_assignment\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
-F:\DEPI\technical\OOP\session11\session11_assignment\bank\bank\obj\Debug\bank.exe
-F:\DEPI\technical\OOP\session11\session11_assignment\bank\bank\obj\Debug\bank.pdb
