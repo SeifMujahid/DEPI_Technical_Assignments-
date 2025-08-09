@@ -1,0 +1,7 @@
+F:\DEPI\technical\OOP\session12\session12_assignment\task_session12\task_session12\bin\Debug\task_session12.exe.config
+F:\DEPI\technical\OOP\session12\session12_assignment\task_session12\task_session12\bin\Debug\task_session12.exe
+F:\DEPI\technical\OOP\session12\session12_assignment\task_session12\task_session12\bin\Debug\task_session12.pdb
+F:\DEPI\technical\OOP\session12\session12_assignment\task_session12\task_session12\obj\Debug\task_session12.csproj.AssemblyReference.cache
+F:\DEPI\technical\OOP\session12\session12_assignment\task_session12\task_session12\obj\Debug\task_session12.csproj.CoreCompileInputs.cache
+F:\DEPI\technical\OOP\session12\session12_assignment\task_session12\task_session12\obj\Debug\task_session12.exe
+F:\DEPI\technical\OOP\session12\session12_assignment\task_session12\task_session12\obj\Debug\task_session12.pdb
