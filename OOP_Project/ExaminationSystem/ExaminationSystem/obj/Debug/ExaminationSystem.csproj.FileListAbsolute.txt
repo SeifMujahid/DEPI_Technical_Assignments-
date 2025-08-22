@@ -1,0 +1,7 @@
+F:\DEPI\technical\OOP\OOP_Project\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+F:\DEPI\technical\OOP\OOP_Project\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+F:\DEPI\technical\OOP\OOP_Project\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+F:\DEPI\technical\OOP\OOP_Project\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+F:\DEPI\technical\OOP\OOP_Project\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\DEPI\technical\OOP\OOP_Project\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+F:\DEPI\technical\OOP\OOP_Project\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
