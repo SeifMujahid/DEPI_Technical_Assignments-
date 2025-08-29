@@ -1,0 +1,7 @@
+F:\DEPI\technical\C#-Advanced\session17\session17_assignment\AdvancedC#\AdvancedC#\bin\Debug\AdvancedC#.exe.config
+F:\DEPI\technical\C#-Advanced\session17\session17_assignment\AdvancedC#\AdvancedC#\bin\Debug\AdvancedC#.exe
+F:\DEPI\technical\C#-Advanced\session17\session17_assignment\AdvancedC#\AdvancedC#\bin\Debug\AdvancedC#.pdb
+F:\DEPI\technical\C#-Advanced\session17\session17_assignment\AdvancedC#\AdvancedC#\obj\Debug\AdvancedC#.csproj.AssemblyReference.cache
+F:\DEPI\technical\C#-Advanced\session17\session17_assignment\AdvancedC#\AdvancedC#\obj\Debug\AdvancedC#.csproj.CoreCompileInputs.cache
+F:\DEPI\technical\C#-Advanced\session17\session17_assignment\AdvancedC#\AdvancedC#\obj\Debug\AdvancedC#.exe
+F:\DEPI\technical\C#-Advanced\session17\session17_assignment\AdvancedC#\AdvancedC#\obj\Debug\AdvancedC#.pdb
