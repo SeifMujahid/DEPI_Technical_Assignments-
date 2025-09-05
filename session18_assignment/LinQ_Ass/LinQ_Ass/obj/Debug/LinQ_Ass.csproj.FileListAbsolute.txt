@@ -1,0 +1,7 @@
+F:\DEPI\technical\LINQ\session18\session18_assignment\LinQ_Ass\LinQ_Ass\bin\Debug\LinQ_Ass.exe.config
+F:\DEPI\technical\LINQ\session18\session18_assignment\LinQ_Ass\LinQ_Ass\bin\Debug\LinQ_Ass.exe
+F:\DEPI\technical\LINQ\session18\session18_assignment\LinQ_Ass\LinQ_Ass\bin\Debug\LinQ_Ass.pdb
+F:\DEPI\technical\LINQ\session18\session18_assignment\LinQ_Ass\LinQ_Ass\obj\Debug\LinQ_Ass.csproj.AssemblyReference.cache
+F:\DEPI\technical\LINQ\session18\session18_assignment\LinQ_Ass\LinQ_Ass\obj\Debug\LinQ_Ass.csproj.CoreCompileInputs.cache
+F:\DEPI\technical\LINQ\session18\session18_assignment\LinQ_Ass\LinQ_Ass\obj\Debug\LinQ_Ass.exe
+F:\DEPI\technical\LINQ\session18\session18_assignment\LinQ_Ass\LinQ_Ass\obj\Debug\LinQ_Ass.pdb
