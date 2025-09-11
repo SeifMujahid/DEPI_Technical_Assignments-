@@ -1,0 +1,20 @@
+Random advice:
+			
+HTTP Method	
+		GET
+
+URL	
+		https://api.adviceslip.com/advice
+
+Description	
+		Returns a random advice slip as a slip object.
+
+Parameters	
+		callback
+		string To define your own callback function name and return the JSON in a function wrapper (as JSONP),
+		add the parameter callback with your desired name as the value.
+
+-------------------------------------------------------------------------------
+Full Document Link :
+
+		https://api.adviceslip.com/

@@ -1,0 +1,54 @@
+:root {
+  --Blue-200: hsl(193, 38%, 86%);
+  --Green-300: hsl(150, 100%, 66%);
+  --Blue-600: hsl(217, 19%, 38%);
+  --Blue-900: hsl(217, 19%, 24%);
+  --Blue-950: hsl(218, 23%, 16%);
+  --Font-quote: 28px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  background-color: var(--Blue-950);
+}
+
+.main-box {
+  background-color: var(--Blue-900);
+  width: 40%;
+  position: relative;
+}
+
+.advive-id {
+  color: var(--Green-300);
+  letter-spacing: 3px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.advice {
+  color: var(--Blue-200);
+  font-size: var(--Font-quote);
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+.random {
+  cursor: pointer;
+  height: 55px;
+  width: 55px;
+  background-color: var(--Green-300);
+  transition: 0.3s;
+  position: relative;
+  left: 50%;
+  bottom: -50px;
+  transform: translateX(-50%);
+}
+.random:hover {
+  box-shadow: 0px 0px 20px var(--Green-300);
+}
