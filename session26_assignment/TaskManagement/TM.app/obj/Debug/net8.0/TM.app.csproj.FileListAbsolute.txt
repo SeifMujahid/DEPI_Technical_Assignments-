@@ -1,0 +1,17 @@
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\bin\Debug\net8.0\TM.app.deps.json
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\bin\Debug\net8.0\TM.app.runtimeconfig.json
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\bin\Debug\net8.0\TM.app.dll
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\bin\Debug\net8.0\TM.app.pdb
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\bin\Debug\net8.0\TM.core.dll
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\bin\Debug\net8.0\TM.core.pdb
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.csproj.AssemblyReference.cache
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.AssemblyInfoInputs.cache
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.AssemblyInfo.cs
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.csproj.CoreCompileInputs.cache
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.csproj.Up2Date
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.dll
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\refint\TM.app.dll
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.pdb
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\TM.app.genruntimeconfig.cache
+F:\DEPI\technical\API\session26\session26_assignment\TaskManagement\TM.app\obj\Debug\net8.0\ref\TM.app.dll
